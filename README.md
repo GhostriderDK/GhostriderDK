@@ -29,5 +29,3 @@ A web development project showcasing HTML proficiency and creative problem-solvi
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/alexander-gundsø)
 
 ---
-
-Looking forward to collaborating and contributing to the community. Let's build something amazing together!
