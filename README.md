@@ -6,8 +6,8 @@ Hi there! I'm **Alexander Gundsoe**, a passionate developer and technology enthu
 
 ## 🌟 About Me
 - 💻 **Tech Stack**: Python, HTML, IoT, and more.
-- 🌱 **Interests**: Smart home automation, tech-enabled sustainability, and exploring the intersection of software and hardware.
-- 🎯 **Focus**: Creating efficient, user-friendly solutions for real-world problems.
+- 🌱 **Interests**: Smart home automation, CyberSecurity, and exploring the intersection of software and hardware.
+- 🎯 **Focus**: Creating efficient, user-friendly solutions for real-world problems. I also focus a bit on learning Cyber Security and participate in CTFs.
 
 ---
 
