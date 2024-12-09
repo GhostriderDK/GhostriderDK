@@ -14,13 +14,13 @@ Hi there! I'm **Alexander Gundsoe**, a passionate developer and technology enthu
 ## 📌 Pinned Projects
 
 ### [Plant-helper 🌱](https://github.com/GhostriderDK/Plant-helper)
-A Python-based project designed to help keep your plants thriving with minimal effort. Perfect for tech-savvy plant enthusiasts!
+Home hobby project to measure soil moisture and display it so i didnt overwater my plants, it uses flask and mqtt
 
 ### [IoT-2 Smarthome 🏡](https://github.com/GhostriderDK/IoT-2_smarthome)
-Dive into IoT and home automation with this project, blending Python and innovative smart home technologies.
+IoT Smarthome from exams Project on 2nd semester.
 
 ### [Prog2_it_tek 🌐](https://github.com/GhostriderDK/Prog2_it_tek)
-A web development project showcasing HTML proficiency and creative problem-solving in the digital space.
+Notes and projects from classes.
 
 ---
 
