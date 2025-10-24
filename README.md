@@ -25,7 +25,7 @@ Notes and projects from classes.
 ---
 
 ## 🌐 Connect with Me
-- 📧 **Email**: [Reach out here](mailto:algu0001@stud.kea.dk)
+- 📧 **Email**: [Reach out here](mailto:a.gundsoe+github@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/alexander-gundsø)
 
 ---
